@@ -1,1 +1,1 @@
-# KonsolTabanl-De-erYonetimSistemi
+# KonsolTabanliDegerYonetimSistemi
